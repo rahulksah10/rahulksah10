@@ -9,7 +9,7 @@
 
 ---
 
-<p align="center" >### 🙋‍♂️ About Me</p>
+<p align="center" > 🙋‍♂️ About Me</p>
 
 I'm a passionate Software Developer with strong interest in web development, coding, and building meaningful software solutions.  
 Currently, I'm exploring modern web technologies to create efficient and interactive applications.
@@ -20,16 +20,16 @@ Currently, I'm exploring modern web technologies to create efficient and interac
 
 ---
 
-<p align="center">### 💼 Internship</p>
+<p align="center"> 💼 Internship</p>
 
 💼 I completed my internship where I worked on real-world web applications, enhancing my skills in frontend and backend technologies.  
 Collaborated with teams, wrote clean code, and got hands-on experience in a real development environment.
 
 ---
 
-<p align="center"> ### 🛠️ Tech Stack </p>
+<p align="center"> 🛠️ Tech Stack </p>
 
-<p align="left">
+<p align="center">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
   </a> 
@@ -58,9 +58,9 @@ Collaborated with teams, wrote clean code, and got hands-on experience in a real
 
 ---
 
-<p align="center">### 🔗 Connect with Me</p>
+<p align="center"> 🔗 Connect with Me</p>
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/rahulsah10/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
   </a>
@@ -77,10 +77,10 @@ Collaborated with teams, wrote clean code, and got hands-on experience in a real
 
 ---
 
-<p align="center">### 📊 GitHub Stats</p>
+<p align="center"> 📊 GitHub Stats</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=smilyrahul&show_icons=true&locale=en&layout=compact" alt="smilyrahul" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smilyrahul&show_icons=true&locale=en" alt="smilyrahul" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=smilyrahul&" alt="smilyrahul" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=smilyrahul&" alt="smilyrahul" /></p>
