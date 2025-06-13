@@ -77,9 +77,9 @@ Collaborated with teams, wrote clean code, and got hands-on experience in a real
 
 ---
 
-<p align="left"> 📊 GitHub Stats</p>
+<p align="left" display= "display flex"> 📊 GitHub Stats</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=smilyrahul&show_icons=true&locale=en&layout=compact" alt="smilyrahul" /></p>
+<p><img align="leftr" src="https://github-readme-stats.vercel.app/api/top-langs?username=smilyrahul&show_icons=true&locale=en&layout=compact" alt="smilyrahul" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smilyrahul&show_icons=true&locale=en" alt="smilyrahul" /></p>
 
