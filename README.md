@@ -87,6 +87,11 @@ Collaborated with teams, wrote clean code, and got hands-on experience in a real
   </tr>
 </table>
 
+## 📅 Developer Activity
+
+<img src="your-contribution-graph-link.png" alt="Contribution Graph" />
+
+
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=smilyrahul&theme=tokyonight" />
 </div>
