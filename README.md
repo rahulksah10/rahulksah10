@@ -20,14 +20,14 @@ Currently, I'm exploring modern web technologies to create efficient and interac
 
 ---
 
-### 💼 Internship
+<p align="center">### 💼 Internship</p>
 
 💼 I completed my internship where I worked on real-world web applications, enhancing my skills in frontend and backend technologies.  
 Collaborated with teams, wrote clean code, and got hands-on experience in a real development environment.
 
 ---
 
-### 🛠️ Tech Stack
+<p align="center"> ### 🛠️ Tech Stack </p>
 
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
@@ -58,7 +58,7 @@ Collaborated with teams, wrote clean code, and got hands-on experience in a real
 
 ---
 
-### 🔗 Connect with Me
+<p align="center">### 🔗 Connect with Me</p>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/rahulsah10/" target="blank">
@@ -77,7 +77,7 @@ Collaborated with teams, wrote clean code, and got hands-on experience in a real
 
 ---
 
-### 📊 GitHub Stats
+<p align="center">### 📊 GitHub Stats</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=smilyrahul&show_icons=true&locale=en&layout=compact" alt="smilyrahul" /></p>
 
