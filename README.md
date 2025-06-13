@@ -71,7 +71,7 @@ Collaborated with teams, wrote clean code, and got hands-on experience in a real
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" />
   </a>
   <a href="https://www.hackerrank.com/profile/rahulraj12777" target="blank">
-    <img align="right" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrank" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrank" height="30" width="40" />
   </a>
 </p>
 
@@ -79,7 +79,7 @@ Collaborated with teams, wrote clean code, and got hands-on experience in a real
 
 <p align="left"> 📊 GitHub Stats</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=smilyrahul&show_icons=true&locale=en&layout=compact" alt="smilyrahul" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=smilyrahul&show_icons=true&locale=en&layout=compact" alt="smilyrahul" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smilyrahul&show_icons=true&locale=en" alt="smilyrahul" /></p>
 
