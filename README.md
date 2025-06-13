@@ -3,9 +3,7 @@
 
 
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=smilyrahul&label=Profile%20views&color=0e75b6&style=flat" alt="smilyrahul" /> 
-</p>
+
 
 ---
 
@@ -27,7 +25,7 @@ Collaborated with teams, wrote clean code, and got hands-on experience in a real
 
 ---
 
-<table>
+<table align = "center">
   <tr>
     <th>💻 Frontend</th>
     <td>
