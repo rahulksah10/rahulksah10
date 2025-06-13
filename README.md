@@ -25,6 +25,8 @@ Collaborated with teams, wrote clean code, and got hands-on experience in a real
 
 ---
 
+
+<p align="center">🛠️ Tech Stack</p>
 <table align = "center">
   <tr>
     <th>💻 Frontend</th>
