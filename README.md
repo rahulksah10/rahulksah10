@@ -9,7 +9,7 @@
 
 ---
 
-### 🙋‍♂️ About Me
+<p align="center" >### 🙋‍♂️ About Me</p>
 
 I'm a passionate Software Developer with strong interest in web development, coding, and building meaningful software solutions.  
 Currently, I'm exploring modern web technologies to create efficient and interactive applications.
