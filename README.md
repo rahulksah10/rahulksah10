@@ -74,8 +74,19 @@ Collaborated with teams, wrote clean code, and got hands-on experience in a real
 
 <p align="left" display= "display flex"> 📊 GitHub Stats</p>
 
-<p><img align="leftr" src="https://github-readme-stats.vercel.app/api/top-langs?username=smilyrahul&show_icons=true&locale=en&layout=compact" alt="smilyrahul" /></p>
+## 📊 GitHub Stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smilyrahul&show_icons=true&locale=en" alt="smilyrahul" /></p>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=smilyrahul&" alt="smilyrahul" /></p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" alt="GitHub Streak Stats" />
+</div>
