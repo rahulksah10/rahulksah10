@@ -47,9 +47,9 @@ Currently, I'm exploring modern web technologies to create efficient and interac
 <h2 align="center">📈 GitHub Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=smilyrahul&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="45%" height="45%" style="margin: 5px;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smilyrahul&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="35%" style="margin: 5px;"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=smilyrahul&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="65%" style="margin-top: 10px;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rahulksah10&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="45%" height="45%" style="margin: 5px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulksah10&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="35%" style="margin: 5px;"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=rahulksah10&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="65%" style="margin-top: 10px;"/>
 </div>
 
 ---
@@ -57,6 +57,6 @@ Currently, I'm exploring modern web technologies to create efficient and interac
 <h2 align="center">📆 Developer Activity</h2>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=smilyrahul&area=true&hide_border=true&bg_color=0d1117&color=9f74ff&line=18b2de&point=ff6ec7&area_color=833ab4&text_color=ffffff" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rahulksah10&area=true&hide_border=true&bg_color=0d1117&color=9f74ff&line=18b2de&point=ff6ec7&area_color=833ab4&text_color=ffffff" width="100%"/>
 </div>
 
