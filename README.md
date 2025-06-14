@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Rahul</h1>
-<p align="center">A passionate Software Developer from India</p>
+<h3 align="center">A passionate Frontend Developer from India</h3>
 
 ---
 
 <h2 align="center">🙋‍♂️ About Me</h2>
 
 <p align="center">
-I'm a passionate Software Developer with strong interest in web development, coding, and building meaningful software solutions.<br>
+I'm a passionate Frontend Developer with strong interest in web development, coding, and building meaningful frontend solutions.<br>
 Currently, I'm exploring modern web technologies to create efficient and interactive applications.
 </p>
 
