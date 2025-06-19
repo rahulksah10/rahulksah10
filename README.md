@@ -41,10 +41,13 @@ Currently, I'm exploring modern web technologies to create efficient and interac
 <h2 align="center">📈 GitHub Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahulksah10&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="45%" height="45%" style="margin: 5px;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulksah10&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="35%" style="margin: 5px;"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=rahulksah10&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="65%" style="margin-top: 10px;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rahulksah10&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="45%" height="45%" style="margin: 5px;" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulksah10&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="35%" style="margin: 5px;" />
+  
+  <img src="https://streak-stats.demolab.com?user=rahulksah10&theme=tokyonight&hide_border=true&ring=ff00cc&fire=ffcc00&currStreakLabel=00cfff&sideLabels=ff0080&currStreakNum=00cfff" alt="GitHub Streak" width="65%" style="margin-top: 10px;" />
 </div>
+
 
 <h2 align="center">📆 Developer Activity</h2>
 
