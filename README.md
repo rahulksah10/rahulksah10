@@ -38,7 +38,7 @@ Currently, I'm exploring modern web technologies to create efficient and interac
   </tr>
 </table>
 
-<h2 align="center">📈 GitHub Stats</h2>
+<h2 align="right">📈 GitHub Stats</h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rahulksah10&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="45%" height="45%" style="margin: 5px;" />
