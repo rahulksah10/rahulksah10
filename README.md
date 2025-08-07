@@ -57,7 +57,7 @@ Currently, I'm exploring modern web technologies to create efficient and interac
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rahulksah10&area=true&hide_border=true&bg_color=0d1117&color=9f74ff&line=18b2de&point=ff6ec7&area_color=833ab4&text_color=ffffff" width="100%"/>
 </div>
 
-<h2> Some Programming humour for you, Because even code needs comedy." <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
+<h2> "Some Programming humour for you, Because even code needs comedy" <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical)
 -------
